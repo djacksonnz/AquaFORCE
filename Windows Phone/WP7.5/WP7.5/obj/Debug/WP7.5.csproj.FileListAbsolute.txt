@@ -1,0 +1,15 @@
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\ApplicationIcon.png
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\Background.png
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\WP7.5.dll
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\WP7.5.pdb
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\AppManifest.xaml
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\WP7._5.xap
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\WP7.5.csprojResolveAssemblyReference.cache
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\App.g.cs
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\MainPage.g.cs
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\WP7.5.g.resources
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\WP7.5.dll
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\WP7.5.pdb
+E:\Developement\AquaFORCE\Windows Phone\WP7.5\WP7.5\obj\Debug\XapCacheFile.xml

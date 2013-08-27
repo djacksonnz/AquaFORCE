@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="aquaFORCE" EntryPointType="aquaForce_Windows_Phone_7.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="aquaFORCE" Source="aquaFORCE.dll" />
+    <AssemblyPart x:Name="IsolatedStorageExplorer" Source="IsolatedStorageExplorer.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.Xna" Source="Microsoft.Advertising.Mobile.Xna.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Controls" Source="Microsoft.Expression.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Controls.Fxg" Source="Microsoft.Expression.Controls.Fxg.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Drawing" Source="Microsoft.Expression.Drawing.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Maps" Source="Microsoft.Phone.Controls.Maps.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Threading.Tasks.WP71" Source="System.Threading.Tasks.WP71.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+  </Deployment.Parts>
+</Deployment>
